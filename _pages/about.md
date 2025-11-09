@@ -25,8 +25,9 @@ For more details, please find my CV [here].
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;🎉🎉 Our paper "Robust Causal Discovery under Imperfect Structural Constraints" has been accepted for AAAI-2026 (Oral).
+- *2025.10*: &nbsp;🎉🎉 Our paper "Feature Reduction Causal Network (FRCN): A Novel Approach for Analyzing Coupling Relationships in Radar System" has been accepted for KBS.
+- *2025.09*: &nbsp;🎉🎉 Our paper "Uncertain Priors for Graphical Causal Models: a Multi-objective Optimization Perspective" has been accepted in TKDE. 
 
 # 📝 Publications 
 
