@@ -6,8 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-url                      : "https://zidong.github.io" # <-- 添加这一行
-baseurl                  : "" # <-- 添加这一行
 title                    : "HomePage of Zidong"
 description              : "Postdoctoral Fellow"
 repository               : "wzd2502/zidong.github.io"
@@ -39,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/wzd2502"
+  github           : "wzd2502"
   google_plus      :
   keybase          :
   instagram        :
