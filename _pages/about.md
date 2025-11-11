@@ -31,7 +31,7 @@ For more details, please find my CV and 简历.
 # 📝 Publications 
 
 - [[AAAI]](https://aaai.org/conference/aaai/aaai-26/) Robust Causal Discovery under Imperfect Structural Constraints. [[paper]](https://arxiv.org/abs/2511.06790) [[code]](https://github.com/wzd2502/RoaDs)<br>
-**Zidong Wang**, Xi Lin, Chuchao He, and Xiaoguang Gao*. <br> 
+**Zidong Wang**, Xi Lin, Chuchao He*, and Xiaoguang Gao. <br> 
 In: Proceeding of the 40th Annual AAAI Conference on Artificial Intelligence, in progress, 2026. (CCF A)
 
 - [[TKDE]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) Uncertain Priors for Graphical Causal Models: a Multi-objective Optimization Perspective. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11159600&casa_token=1V9VevwsVjYAAAAA:B6mFRD22WHIsunDG-GEBzUR4ydKNUk-qHRt66iTbuvUdfX16CdBvTvy9G_FpVbTnWcrG32B84Q&tag=1) [[code]](https://github.com/wzd2502/UpCM)<br>
