@@ -2,24 +2,3 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Patents and Competitions"
-    url: "/#-patents and competitions"
-
-  - title: "Academic Service"
-    url: "/#-academic service"
-
-  - title: "Experiences"
-    url: "/#-experiences"
