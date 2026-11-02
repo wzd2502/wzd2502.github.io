@@ -17,14 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I'm Zidong Wang. I am currently a Postdoctoral Researcher in the [Optima Group](https://optima.cs.cityu.edu.hk/), Department of Computer Science, at the City University of Hong Kong, supervised by [Prof. Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html). Previously, I received my B.Eng. degree from the Honors College in 2018 and my Ph.D. degree from the School of Electronics and Information in 2024, both at Northwestern Polytechnical University. My Ph.D. studies were supervised by [Prof. Xiaoguang Gao](https://dblp.org/pid/18/5633-1.html).
+Hello! I'm Zidong Wang, a tenure-track Associate Professor in the [School of Artificial Intelligence](https://tylgswyxgc.tyut.edu.cn/) at Taiyuan University of Technology (TYUT). From 2024 to 2026, I was a Postdoctoral Researcher in the [Optima Group](https://optima.cs.cityu.edu.hk/), Department of Computer Science, at the City University of Hong Kong, working with [Prof. Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html). I received my B.Eng. degree from the Honors College in 2018 and my Ph.D. degree from the School of Electronics and Information in 2024, both at Northwestern Polytechnical University. My Ph.D. studies were supervised by [Prof. Xiaoguang Gao](https://dblp.org/pid/18/5633-1.html).
 
-My research interests include causal discovery (also called Bayesian Network Structure Learning), causal representation learning, and their applications in performance evaluation under complex uncertainty. I have published over 10 papers in top-tier journals and conferences such as TKDE, AAAI, and IJCAI, serving as the first or corresponding author.
+My research interests include causal discovery (Bayesian network structure learning), causal representation learning, multi-objective optimization, and large language model-assisted algorithm design. I also study their applications in performance evaluation under complex uncertainty. I have published over 10 papers in top-tier journals and conferences such as TKDE, AAAI, and IJCAI, serving as the first or corresponding author.
 
-For more details, please find my <a href='resume/CV.pdf'>CV</a> & <a href='resume/简历.pdf'>中文简历</a>.
+For more details, please see my [CV](resume/CV.pdf), [Chinese CV](resume/简历.pdf), and [TYUT faculty profile](https://tylgswyxgc.tyut.edu.cn/info/1411/12255.htm).
+
+<div class="notice--info" markdown="1">
+**Prospective students:** I am looking for motivated undergraduate and graduate students with strong research potential and a passion for academic research. If you are interested in working with me, please feel free to [email me](mailto:{{ site.author.email }}) with a brief introduction and your research interests. I look forward to hearing from you!
+</div>
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 I have been awarded a Young Scientists Fund (Category C) grant from the National Natural Science Foundation of China (NSFC).
 - *2025.11*: &nbsp;🎉🎉 Our paper "Robust Causal Discovery under Imperfect Structural Constraints" has been accepted for AAAI-2026 (Oral).
 - *2025.09*: &nbsp;🎉🎉 Our paper "Uncertain Priors for Graphical Causal Models: a Multi-objective Optimization Perspective" has been accepted in TKDE. 
 
@@ -68,7 +73,7 @@ In: Knowledge-Based Systems 211: 106515, 2021. (CCF C, CAS Q1)
 
 # 📖 Educations
 - *2018.09 - 2024.04*, Ph.D. in Control Science and Engineering, Northwestern Polytechnical University (NWPU) 
-- *2014.09 - 2018.06*, B.Sc. in Systems Engineering, Northwestern Polytechnical University (NWPU)
+- *2014.09 - 2018.06*, B.Eng. in Systems Engineering, Northwestern Polytechnical University (NWPU)
 
 # 💬 Patents and Competitions
 - A method for analyzing enemy/own target recognition effectiveness based on expert experience and Bayesian networks. [[Patent]](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTA4MDcxNjU0MjYSKVpMX0NOMjAyMjEwMjE1MDY2LjdfQ04xMTQ3MjI4OTlCXzIwMjUwNTI3Gghwd25vZTk1NQ%3D%3D) <br>
@@ -87,4 +92,5 @@ China Invention Patent: CN114722899B (Granted: May 27, 2025).
 - Entropy
 
 # 💻 Experiences
-- *2024.08 - now*, Postdoctoral Researcher, Department of Computer Science, City University of Hong Kong.
+- *2026 - present*, Associate Professor (Tenure-track), School of Artificial Intelligence, Taiyuan University of Technology.
+- *2024.08 - 2026*, Postdoctoral Researcher, Department of Computer Science, City University of Hong Kong.

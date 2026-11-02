@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "HomePage of Zidong"
-description              : "Postdoctoral Fellow"
+description              : "Associate Professor (Tenure-track)"
 repository               : "wzd2502/zidong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zidong Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "City University of Hong Kong"
-  location         : "Hong Kong SAR, China"
+  bio              : "School of Artificial Intelligence, Taiyuan University of Technology"
+  location         : "Shanxi, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=t1jXGwkAAAAJ&hl=en"
-  email            : "zidowang@cityu.edu.hk"
+  email            : "wangzidong@tyut.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Zidong-Wang-10?ev=hdr_xprf"
   uri              :
   bitbucket        :
