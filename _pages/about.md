@@ -21,7 +21,7 @@ Hello! I'm Zidong Wang, a tenure-track Associate Professor in the [School of Art
 
 My research interests include causal discovery (Bayesian network structure learning), causal representation learning, multi-objective optimization, and large language model-assisted algorithm design. I also study their applications in performance evaluation under complex uncertainty. I have published over 10 papers in top-tier journals and conferences such as TKDE, AAAI, and IJCAI, serving as the first or corresponding author.
 
-For more details, please see my [CV](resume/CV.pdf), [Chinese CV](resume/简历.pdf), and [TYUT faculty profile](https://tylgswyxgc.tyut.edu.cn/info/1411/12255.htm).
+For more details, please see my [TYUT faculty profile](https://tylgswyxgc.tyut.edu.cn/info/1411/12255.htm).
 
 <div class="notice--info" markdown="1">
 **Prospective students:** I am looking for motivated undergraduate and graduate students with strong research potential and a passion for academic research. If you are interested in working with me, please feel free to [email me](mailto:{{ site.author.email }}) with a brief introduction and your research interests. I look forward to hearing from you!
